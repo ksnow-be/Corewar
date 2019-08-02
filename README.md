@@ -61,6 +61,6 @@ The VM field looks like this:
 
 The only player showing signs of life is considered the winner.
 
-![alt text](https://github.com/ksnow-be/Corewar/blob/master/imgs/battle.png)
+![alt text](https://github.com/ksnow-be/Corewar/blob/master/imgs/batlte.png)
 
 **In our team i was responsible for splitting on tokens and bytecode translation, so honestly i have no clue how VM works. Sorry.**
